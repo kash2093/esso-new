@@ -1,0 +1,101 @@
+17C170E86944D26F3693B86BD59B896E.cache.js
+device.features largeDisplayMouse
+user.agent gecko1_8
+
+1CE306875F0D7367976CA511F2A4BFD6.cache.js
+device.features largeDisplayMouse
+user.agent ie8
+
+2129CF08A4681F640BA4E6D5C1BA4982.cache.js
+device.features largeDisplayTouch
+user.agent ie8
+
+270241A547ECFDFD8F3247AD087536A5.cache.js
+device.features smallDisplayTouch
+user.agent gecko1_8
+
+28C5C310D18D8083B2511C6F26E123CD.cache.js
+device.features largeDisplayArrows
+user.agent gecko1_8
+
+2C61952A00CB9BD6AFF54EC56BA1CE17.cache.js
+device.features smallDisplayArrows
+user.agent ie9
+
+2FA03C8B5A5736C62A730C8B4B7A86F0.cache.js
+device.features smallDisplayArrows
+user.agent safari
+
+3A115EF9C8A80C6F17407514BF6AF7BA.cache.js
+device.features largeDisplayTouch
+user.agent ie10
+
+40F92DBDF5EE7249EB4E73B76E6719C0.cache.js
+device.features smallDisplayTouch
+user.agent ie10
+
+68BA4B24F252AAE9A972403D03EFD7FD.cache.js
+device.features smallDisplayArrows
+user.agent gecko1_8
+
+87C817322BBAB0696C1FA0C4A477CF5A.cache.js
+device.features smallDisplayArrows
+user.agent ie8
+
+8A5C0950CFCAFBB3C83E82B6807E16A2.cache.js
+device.features largeDisplayArrows
+user.agent ie8
+
+8B70C16C7E11F2FF1AB3ECE5089C7B2E.cache.js
+device.features largeDisplayArrows
+user.agent ie9
+
+9994803A5C0270014F749624809ED1FB.cache.js
+device.features smallDisplayTouch
+user.agent ie8
+
+9AA9F5CB8862E25867406ED9CD752738.cache.js
+device.features largeDisplayMouse
+user.agent ie10
+
+9F2C9BB8EB7815CAD12637BE0747DB62.cache.js
+device.features largeDisplayTouch
+user.agent ie9
+
+A5FB4301531D7256984380AB787F534A.cache.js
+device.features largeDisplayTouch
+user.agent gecko1_8
+
+CA82B4F6370FB0A2550BC823A31944A9.cache.js
+device.features smallDisplayArrows
+user.agent ie10
+
+D44318BACA60ACCE30D9F2E2127CB162.cache.js
+device.features smallDisplayTouch
+user.agent safari
+
+D4A9A91016D2440935EA416CF2C6A2B9.cache.js
+device.features smallDisplayTouch
+user.agent ie9
+
+E30E7C31B48EC2DBC033AADEDAEA9414.cache.js
+device.features largeDisplayMouse
+user.agent ie9
+
+EFCD7EB832D20B306AD36F0E9186A250.cache.js
+device.features largeDisplayMouse
+user.agent safari
+
+EFDF39DD38A256BB933E5909B248B7AD.cache.js
+device.features largeDisplayTouch
+user.agent safari
+
+F99D0DF6C459A3E5CC00B7EEFEE93776.cache.js
+device.features largeDisplayArrows
+user.agent safari
+
+FE3F74D4927F517921CED3BE14A41089.cache.js
+device.features largeDisplayArrows
+user.agent ie10
+
+Devmode:devmode.js
